@@ -1,6 +1,6 @@
 {
   "name": "@aaronsuuu/nuxt-use-reducer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A Nuxt 3 composable for using the reducer pattern in Vue 3.",
   "keywords": [
     "nuxt",
